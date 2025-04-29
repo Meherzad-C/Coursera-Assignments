@@ -1,2 +1,2 @@
 # Coursera-Assignments
-Coursera assignments and projects in one place. Learning, coding, and leveling up. 🎓
+A collection of random assignments and projects from various Coursera courses. Learning and coding along the way.
